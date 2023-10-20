@@ -8,7 +8,7 @@ from .views import (ApiLinks,
 router = SimpleRouter()
 router.register(r'employee', EmployeeViewSet)
 router.register(r'team', TeamViewSet)
-print(router.urls)
+
 
 urlpatterns = [
     path('', ApiLinks),
