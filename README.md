@@ -4,8 +4,7 @@
       pip install Django
    
 2. Next open command line within the project folder and type
-
-     manage.py makemigrations      
+     
      manage.py migrate
    
 3. Create super user, so you can access admin panel (localhost:8000/admin)
