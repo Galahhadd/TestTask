@@ -3,7 +3,7 @@
       pip install djangorestframework      
       pip install Django
    
-2. Next open command line within the project folder and typy
+2. Next open command line within the project folder and type
 
      manage.py makemigrations      
      manage.py migrate
